@@ -80,11 +80,8 @@ Users can filter dashboard using:
 
 ## 📊 Dashboard Preview
 
-> *(Upload your dashboard screenshot in the repository and replace the image path below.)*
+![Dashboard](https://github.com/manishkumar7394/VRINDA-STORE-ANNUAL-REPORTS-2022/blob/main/DASHBOARD%20.png)
 
-```md
-![Dashboard](images/dashboard.png)
-```
 
 ---
 
@@ -156,8 +153,8 @@ Through this project, I practiced:
 
 **Manish Kumar**
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/manishkumar7394
+- LinkedIn: https://www.linkedin.com/in/manish-kumar-8392863b1/
 
 ---
 
